@@ -1,3 +1,5 @@
+# PS: https://atcoder.jp/contests/abc344/tasks/abc344_d
+
 import sys
 import math
 
