@@ -1,3 +1,4 @@
+// PS: https://leetcode.com/problems/custom-sort-string/
 class Solution {
     /*
         1. HashMap for string s
