@@ -1,4 +1,8 @@
 // PS: https://leetcode.com/problems/custom-sort-string/
+
+import java.util.Map;
+import java.util.HashMap;
+
 class Solution {
     /*
         1. HashMap for string s
