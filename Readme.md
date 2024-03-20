@@ -8,13 +8,13 @@
     - Weekly Contests:
         - LeetCode Weekly Contest solutions: https://www.youtube.com/@TLE_Eliminators
         
-        - Atcoder Weekly Contest solution(Replace XXX with contest number): 
-          - Contest Editorial under 3 minutes: https://www.youtube.com/@evimalab
-          - Detailed Stream: https://www.youtube.com/@aryanc403
+        - Atcoder Weekly Contest solution(Replace XXX with contest number):       - https://www.youtube.com/@evimalab
 
 2. System Design:
     - YouTube Links: 
         - Concept && Coding : https://www.youtube.com/watch?v=rliSgjoOFTs&list=PL6W8uoQQ2c63W58rpNFDwdrBnq5G3EfT7
+        - Narendra: https://www.youtube.com/@TechDummiesNarendraL/
+        - CodeKarle: https://www.youtube.com/c/codeKarle/playlists
 
     - Course Links: 
         - Educative: https://www.educative.io/path/deep-dive-into-system-design-interview
@@ -37,6 +37,7 @@
 
     - Daily Reads:
       -  Github Design Patterns: https://github.com/iluwatar/java-design-patterns?tab=readme-ov-file 
+      -  DB schema design patterns: https://github.com/sujeet-agrahari/awesome-database-design
     
    - Mock Practice: 
      - Practice Class/DB Level Relationships: **every Tuesday's Thursdays** with CHAT-GPT Simulation 
